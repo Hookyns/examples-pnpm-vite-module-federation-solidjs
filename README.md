@@ -1,2 +1,2 @@
-# examples-pnpm-vite-module-federation-solidjs
-Module federation with SolidJS, using Vite and pnpm monorepo
+# Module Federation Example
+Module federation with **SolidJS**, using **Vite** and **pnpm** monorepo.
